@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>qt_icons/icons8-cat-head-100.png</file>
+        <file>qt_icons/icons8-dog-paw-print-100.png</file>
+        <file>qt_icons/icons8-flying-duck-100.png</file>
+        <file>qt_icons/icons8-horse-stable-100.png</file>
+        <file>qt_icons/icons8-incubator-100.png</file>
+        <file>qt_icons/icons8-parakeet-100.png</file>
+        <file>qt_icons/icons8-parrot-100.png</file>
+        <file>qt_icons/icons8-pixel-cat-100.png</file>
+        <file>qt_icons/icons8-quail-100.png</file>
+        <file>qt_icons/icons8-seagull-100.png</file>
+        <file>qt_icons/icons8-woodpecker-100.png</file>
+    </qresource>
+</RCC>
